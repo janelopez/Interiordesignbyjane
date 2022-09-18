@@ -1,49 +1,16 @@
 
 <html>
-<head>
-<style>
-.item1 { grid-area: header; }
-.item2 { grid-area: menu; }
-.item3 { grid-area: main; }
-.item4 { grid-area: right; }
-.item5 { grid-area: footer; }
+<body>
 
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'header header header header header header'
-    'menu main main main right right'
-    'menu footer footer footer footer footer';
-  gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
-}
+<section>
+  <h1>About Me</h1>
+  <p>Jane Mykee is an artist originally from Philippines, but moved to Oman in 2007, and ever since she's been pursuing her art career and finding her style throughout the years..</p>
+</section>
 
-.grid-container > div {
-  background-color: rgba(243, 142, 33, 0.8);
-  text-align: center;
-  padding: 20px 0;
-  font-size: 30px;
-}
-</style>
-</head>
-<body> 
-<1626675088058.jpeg>
-
-<h1>Grid Layout</h1>
-
-
-
-<div class="grid-container">
-  <div class="item1">Header</div>
-  <div class="item2">Menu</div>
-  <div class="item3">Main</div>  
-  <div class="item4">Right</div>
-  <div class="item5">Footer</div>
-</div>
+<section>
+  <h1>WWF's Panda symbol</h1>
+  <p>Studied Interior Architecture  at the University Of Hertfordshire, and inspired by other wonderful  artists such as Zaha Hadid, Joaquín Sorolla, Velázquez, as well as contemporary ones.  She has drifted away from other creative fields to truly commit her life to art; more specifically oil painting, but also touching some gouache and watercolor techniques. .</p>
+</section>
 
 </body>
 </html>
-
-
-
