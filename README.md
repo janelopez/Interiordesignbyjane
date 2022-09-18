@@ -8,7 +8,7 @@
 </section>
 
 <section>
-  <h1>WWF's Panda symbol</h1>
+  <h1>Education</h1>
   <p>Studied Interior Architecture  at the University Of Hertfordshire, and inspired by other wonderful  artists such as Zaha Hadid, Joaquín Sorolla, Velázquez, as well as contemporary ones.  She has drifted away from other creative fields to truly commit her life to art; more specifically oil painting, but also touching some gouache and watercolor techniques. .</p>
 </section>
 
