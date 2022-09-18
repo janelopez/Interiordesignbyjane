@@ -14,3 +14,9 @@
 
 </body>
 </html>
+
+<h2>My Paintings</h2>
+
+<img src="https://www.pinterest.com/pin/782852347717653105/" style="width:104px;height:142px;">
+
+<img src="https://www.pinterest.com/pin/782852347718110540/" style="width:104px;height:142px;">
