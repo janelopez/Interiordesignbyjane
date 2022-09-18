@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -31,7 +31,7 @@
 
 <h1>Grid Layout</h1>
 
-<p>This grid layout contains six columns and three rows:</p>
+
 
 <div class="grid-container">
   <div class="item1">Header</div>
